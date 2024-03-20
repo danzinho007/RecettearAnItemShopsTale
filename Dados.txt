@@ -1,0 +1,186 @@
+Recettear An Item Shop's Tale
+
+Recette = Dona da loja
+Tear = Fada
+Guild Master =
+
+Adam Smith =
+
+Armas do jogo :
+Espadas 
+
+Dungeons :
+
+able = capaz
+accurate = preciso
+Almost = Quase
+always = sempre
+attempting = tentativa
+baffles = defletores
+barrels = barris
+belong = pertence
+beverages = bebidas
+bite = mordida
+blow = golpe
+Bought = Comprado
+came = ???
+care = ???
+chapel = ???
+corner = ???
+course = ???
+dinner = jantar
+disagrees = discorda
+doesn't = ???
+doubt = dúvida
+
+downstairs = embaixo
+dumb = ???
+edible = comestível
+even = ???
+every = ???
+faithful =  fiel
+feel = sentir
+feeling = sentimento
+few = poucos
+Greeting = Saudação
+grown = crescido
+
+have = ???
+healthy = saudável
+Heaven = Céu
+like = ???
+Listen = ???
+
+livelihoods = meios de subsistência 
+loan-shark = agiota 
+lunch = almoço
+matters = assuntos
+once = uma vez
+over = ???
+paperwork = papelada
+praying = orando
+Profits = Lucros
+pumpkin = abóbora
+quite = bastante
+regards = cumprimentos
+regardless = independentemente
+seem = parece 
+You never seem to have trouble relaxing even when are NOT in the plaza... ( Town Square )
+Você nunca parece ter problemas para relaxar ,mesmo quando não está na praça ( Praça da Cidade )
+sheep = ovelha
+slightest = menor
+smell = cheiro
+somehow = de alguma forma
+spending = gastos
+
+stank = fedido
+stomach = estômago
+straight = ??? 
+storefront = montra
+struck = atingido
+
+sure = ???
+take = ???
+taste = gosto
+there = ali
+What in the name of Heaven is he searching for over there ?
+O que , em nome do céu , ele está procurando ali ?
+thing = coisa
+though = embora
+upper-right-hand = superior direito
+
+wondering = vagando
+wares = ???
+wash =  ???
+were = estavam 
+wholesaler = atacadista 
+wooden = ???
+yummy = gostoso 😋 
+
+Dia 3 
+M : Chapel e Town Square
+Dia 4 
+M : Town Square
+N : Chapel , Pub e Market
+
+Louie 
+
+Status : Atq/Def/Mag/MDef
+80/133/22/105
+-Crystal
+-Chobahm Armor
+-Fairy Bracelet
+-Shell Charm
+-Full Helm
+
+
+Bat Wing = OK
+... +1 = OK
+... +2 = OK
+... +3 = OK 
+Brave Heart = OK
+Charred Lizard = OK
+... +1 = OK
+Chestnut = OK
+... +1 = OK
+... +2 = OK
+... +3 = OK
+... +4 = OK
+Coffee Beans = OK
+... +2 = OK
+Fin Fan = OK
+Gunpowder = OK 
+... +1 = OK
+... +2 = OK
+... +3 = OK
+Insect Trap = OK
+... +1 = OK
+... +3 = OK
+... +4 = OK
+Natural Heater = OK
+... +1 = OK
+... +2 = OK
+Powerful Antivenom = OK
+... +1 = OK
+... +2 = OK
+... +3 = OK
+... +4 = OK
+Red Oil = OK
+Shark Fin
+... +1 = OK
+... +3 = OK
+Slime Fluid = OK
+... +1 = OK
+... +2 = OK
+Special Inkwell
+... +2 = OK
+Toothpicks = OK
+... +1 = OK
+... +2 = OK
+... +4 = OK
+Water Shroom = OK
+... +1 = OK
+... +3 = OK
+
+Vender
+Apple = Colquei 2
+>Baked Yam = Coloquei 4
+Beef Bowl = Coloquei 2
+Candy = Coloquei 2
+>Chocolate = Colquei 4
+Dorian = Coloquei 2
+>Golden Pedestal = Coloquei 2
+Golden Scales = Coloquei 2
+Ham Sandwich = Coloquei 2
+>Shortkake = Coloquei 4
+Taiyaki = Coloquei 2
+Walnut = Coloquei 2
+
+Vender :
+Arma : 32k
+Charme : 20k
+Girl : -13k
+Guild : 27k
+Louie : 15k
+Man : 40k
+Woman : 15k
