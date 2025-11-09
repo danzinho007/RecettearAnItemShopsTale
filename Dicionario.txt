@@ -1,0 +1,87 @@
+RecettearAnItemShopsTale_Dicionário
+
+able = capaz
+accurate = preciso
+Almost = Quase
+always = sempre
+attempting = tentativa
+baffles = defletores
+barrels = barris
+belong = pertence
+beverages = bebidas
+bite = mordida
+blow = golpe
+Bought = Comprado
+came = ???
+care = ???
+chapel = ???
+corner = ???
+course = ???
+dinner = jantar
+disagrees = discorda
+doesn't = ???
+doubt = dúvida
+
+downstairs = embaixo
+dumb = ???
+edible = comestível
+even = ???
+every = ???
+faithful =  fiel
+feel = sentir
+feeling = sentimento
+few = poucos
+Greeting = Saudação
+grown = crescido
+
+have = ???
+healthy = saudável
+Heaven = Céu
+like = ???
+Listen = ???
+
+livelihoods = meios de subsistência 
+loan-shark = agiota 
+lunch = almoço
+matters = assuntos
+once = uma vez
+over = ???
+paperwork = papelada
+praying = orando
+Profits = Lucros
+pumpkin = abóbora
+quite = bastante
+regards = cumprimentos
+regardless = independentemente
+seem = parece 
+You never seem to have trouble relaxing even when are NOT in the plaza... ( Town Square )
+Você nunca parece ter problemas para relaxar ,mesmo quando não está na praça ( Praça da Cidade )
+sheep = ovelha
+slightest = menor
+smell = cheiro
+somehow = de alguma forma
+spending = gastos
+
+stank = fedido
+stomach = estômago
+straight = ??? 
+storefront = montra
+struck = atingido
+
+sure = ???
+take = ???
+taste = gosto
+there = ali
+What in the name of Heaven is he searching for over there ?
+O que , em nome do céu , ele está procurando ali ?
+thing = coisa
+though = embora
+upper-right-hand = superior direito
+
+wondering = vagando
+wares = ???
+wash =  ???
+were = estavam 
+wholesaler = atacadista 
+wooden = ???
+yummy = gostoso 😋 
